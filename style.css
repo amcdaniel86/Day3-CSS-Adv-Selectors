@@ -1,0 +1,10 @@
+a[href*="hack"] {
+    color: green;
+}
+
+a {
+  display: block;
+}
+
+div [class="the-div"]
+  background:blue;
